@@ -25,5 +25,4 @@ Easily add, update, delete, and mark tasks as completed.
 ## 🚀 Installation & Setup
 ### **1. Clone the repository**
 ```sh
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+https://github.com/shadtorh/react_redux_to-do-list.git
